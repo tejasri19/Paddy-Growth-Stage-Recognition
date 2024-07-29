@@ -7,6 +7,7 @@ The dataset is a benchmark for growth stage detection under highly variable cond
 - No. of classes - 6 (Weed, Seedling stage, Tillering stage, Booting (panicle initiation) stage, Flowering stage, Ripening stage)
 - No. of Images - 837
 - No. of annotated instances - 4928
+- Dataset & weights link - https://tihan.iith.ac.in/tiand-datasets/#paddygsr
 
 
 
